@@ -6,6 +6,7 @@ npm run dev
 npm run prod
 ```
 样式
+
 ![demo](https://github.com/anxu1212/jquery-loading/raw/master/doc/demo.jpg)
 
 用法：
